@@ -1,0 +1,220 @@
+[15:39:15] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[15:39:15] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[15:39:15] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 2.0.0
+[15:39:16] [Render thread/INFO] [?] Version: JourneyMap 1.21.11-6.0.0, built with fabric 0.139.4+1.21.11
+fabric: 0.18.2
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+SP: : New World : 
+MP: : cherrymc~asia~25565 : donutsmp~net : localhost : localhost_26~3 : mp~opblocks~com : offline : play~manacube~com : play~rulercraft~com : play~skyfreemc~com~19023 : 
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=6.0.0, infoSlotTimeFormat=HH:mm:ss, zoomLevel=512, compassFontScale=1.0, infoSlotFontScale=1.0, terrainAlpha=100, showEntityNames=false, showPassiveNames=false, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=15, playerDisplayScale=1.0, showDayNight=true, showPets=true, showPlayerNames=true, preferredMapType=night, showCompass=true, showNpcNames=false, mobDisplay=jm.common.entity_display.dots_and_outlined_icons, showHostileNames=false, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, showVillagerNames=false, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, minimapLockedMapType=jm.common.map_type.auto, effectTranslateX=0, info3LabelPosition=jm.minimap.info_slot.bottom, showWaypoints=true, info2LabelPosition=jm.minimap.info_slot.top, minimapKeyMovementSpeed=0.001, info1LabelPosition=jm.minimap.info_slot.top, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, showAmbientNames=false, moveEffectIcons=true, showTeamNames=true, position=jm.minimap.position_topright, fontScale=1.0, info4LabelPosition=jm.minimap.info_slot.bottom, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, hudRenderLayer=jm.minimap.hud_render_layer_last, info3Label=jm.theme.labelsource.location, caveLayer=4, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.outlined_icons, mobDisplayScale=1.0, showOffScreenPlayers=true, showCaves=true, hideEffectIcons=false, showMobHeading=true, locationFormatVerbose=true, showAmbientCreatures=false, showPetNames=false, info1Label=jm.theme.labelsource.blank, showNoIconNames=true}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=6.0.0, infoSlotTimeFormat=HH:mm:ss, zoomLevel=512, compassFontScale=1.0, infoSlotFontScale=1.0, terrainAlpha=50, showEntityNames=true, showPassiveNames=false, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=13, playerDisplayScale=1.0, showDayNight=true, showPets=true, showPlayerNames=true, preferredMapType=night, showCompass=true, showNpcNames=false, mobDisplay=jm.common.entity_display.dots_and_outlined_icons, showHostileNames=false, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, showVillagerNames=false, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, minimapLockedMapType=jm.common.map_type.auto, effectTranslateX=0, info3LabelPosition=jm.minimap.info_slot.bottom, showWaypoints=true, info2LabelPosition=jm.minimap.info_slot.top, minimapKeyMovementSpeed=0.001, info1LabelPosition=jm.minimap.info_slot.top, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, showAmbientNames=false, moveEffectIcons=true, showTeamNames=true, position=jm.minimap.position_topright, fontScale=1.0, info4LabelPosition=jm.minimap.info_slot.bottom, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, hudRenderLayer=jm.minimap.hud_render_layer_last, info3Label=jm.theme.labelsource.location, caveLayer=4, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.outlined_icons, mobDisplayScale=1.0, showOffScreenPlayers=true, showCaves=true, hideEffectIcons=false, showMobHeading=true, locationFormatVerbose=true, showAmbientCreatures=false, showPetNames=false, info1Label=jm.theme.labelsource.blank, showNoIconNames=true}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=6.0.0, zoomLevel=2048, minimalMode=false, showPlayers=true, waypointIconScale=1.0, showEntityNames=false, showPassiveNames=false, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, showPlayerNames=true, preferredMapType=day, showNpcNames=false, mobDisplay=jm.common.entity_display.dots_and_outlined_icons, showHostileNames=false, pauseGame=false, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.outlined_icons, showVillagerNames=false, mobDisplayScale=1.0, selfDisplayScale=1.0, showOffScreenPlayers=true, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showThemeButton=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, showAmbientNames=false, showAmbientCreatures=false, showTeamNames=true, showPetNames=false, fontScale=1.0, showNoIconNames=true}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=6.0.0, autoRemoveDeathpointDistance=2, showPlayers=false, dateFormat=MM-dd-yyyy, autoHideIconAngle=5, autoRemoveDeathpoints=false, autoHideIcon=false, autoHideLabelAngle=5, displayOnLocatorBar=false, renderWaypointsWorld=true, showLabelBackground=true, showDeleteConfirmation=true, managerDimensionFocus=false, fullscreenDoubleClickToCreate=true, minDistance=4, coordinatesFormat=XZY, boldLabel=false, disableShare=false, showDeathpointlabel=true, autoHideLabelVertical=true, textureSmall=true, useActionsButton=false, beaconEnabled=true, createDeathpoints=true, disableStrikeThrough=false, renderWaypointsMap=true, showName=true, autoHideLabelVerticalAngle=10, maxDistance=0, ignoreRenderDistance=false, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/execute in {dim} run tp {name} {x} {y} {z}, showStaticBeam=true, renderWaypoints=true, wholeNumberTeleportCoords=false, timeFormat=HH:mm:ss, shaderBeacon=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, managerEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=6.0.0, port=8080, enabled=false}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=6.0.0, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, maxAmbientCreaturesData=32, optionsManagerViewed=6.0.0, announceMod=true, ignoreSnow=false, colorPassive=#bbbbbb, colorPassiveLabel=#bbbbbb, mapShadows=true, mapBlendWater=true, playerIconFade=true, renderDistanceSurfaceMax=0, seedId=false, colorPetLabel=#0077ff, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, initialSortOrder=Name, colorPlayerLabel=#ffffff, revealShape=jm.minimap.shape_circle, mapBiome=true, minimapPresetOverlay=true, caveShader=jm.common.map_filter.default, colorVillagerLabel=#88e188, alwaysMapSurface=false, biomeShader=jm.common.map_filter.default, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, sortDescending=true, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, dayShader=jm.common.map_filter.default, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, colorHostileLabel=#ff0000, mapBlendFoliage=true, netherSurfaceLighting=true, topoMax=0, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, cacheVillagersData=2000, minimapMapTypeOverlay=true, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=true, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, caveModeThreshold=2, legacyIcons=false, netherShader=jm.common.map_filter.default, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, mapOnlyPlayerChunk=false, nightShader=jm.common.map_filter.default, cacheMobsData=3000, drawStepUpdateRate=500, cachePlayerData=1000, splashViewed=6.0.0, colorHostile=#ff0000, topoShader=jm.common.map_filter.default, allowMiniMapBehindScreens=true, cacheAnimalsData=3000, ignoreHeightmaps=false, lodsEnabled=true, themeName=Purist, mapCaveLighting=true, renderDelay=500, mobIconFade=true, serverIp=false, glErrorChecking=false, autoMapPoll=2000}
+[15:39:16] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 294.29ms
+[15:39:16] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[15:39:17] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 1665.92ms
+[15:39:22] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: Default Palette
+[15:43:48] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
+[15:43:48] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[15:43:48] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=null, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[15:43:48] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[15:43:48] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[15:43:48] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\colorpalette.json
+[15:43:48] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\colorpalette.json
+[15:43:48] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\overworld. Memory: 1520MB total, 296MB free 
+[15:43:48] [Render thread/INFO] [JMChunkCache] JMChunkCache: opened at C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\overworld\chunk_cache
+[15:43:49] [Render thread/INFO] [FabricEventHandlerManager] AutoEat:5.0.0, Cloth Config v20:21.11.153, Common Network:1.0.22-1.21.11, Fabric API Base:1.0.5+4ebb5c083e, Fabric API Lookup API (v1):1.6.114+20dc27073e, Fabric API:0.141.6+1.21.11, Fabric Biome API (v1):17.1.1+4fc5413f3e, Fabric Block API (v1):1.1.10+4ebb5c083e, Fabric BlockView API (v2):1.0.39+4ebb5c083e, Fabric Command API (v2):2.4.7+6b42a6003e, Fabric Content Registries (v0):10.2.14+4fc5413f3e, Fabric Convention Tags (v2):2.17.3+8ef948ba3e, Fabric Convention Tags:2.1.55+7f945d5b3e, Fabric Crash Report Info (v1):0.3.23+4ebb5c083e, Fabric Data Attachment API (v1):1.8.48+eed0806f3e, Fabric Data Generation API (v1):23.5.0+88d7da613e, Fabric Dimensions API (v1):4.0.28+4fc5413f3e, Fabric Entity Events (v1):3.1.1+1d0ab4303e, Fabric Events Interaction (v0):4.1.1+3b89ecf63e, Fabric Game Rule API (v1):2.0.3+4fc5413f3e, Fabric Item API (v1):11.6.0+67f17bb43e, Fabric Item Group API (v1):4.2.36+4fc5413f3e, Fabric Key Binding API (v1):1.1.7+4fc5413f3e, Fabric Language Kotlin:1.14.2+kotlin.2.4.21, Fabric Lifecycle Events (v1):2.6.15+4ebb5c083e, Fabric Loader:0.20.1, Fabric Loot API (v2):3.0.73+3f89f5a53e, Fabric Loot API (v3):2.0.20+78c8b4663e, Fabric Message API (v1):6.1.12+4ebb5c083e, Fabric Model Loading API (v1):6.0.15+4fc5413f3e, Fabric Networking API (v1):5.1.6+6b6d71a53e, Fabric Object Builder API (v1):21.1.40+4fc5413f3e, Fabric Particles (v1):4.2.12+4fc5413f3e, Fabric Recipe API (v1):8.2.4+4ebb5c083e, Fabric Registry Sync (v0):6.2.6+1718722b3e, Fabric Renderer - Indigo:5.0.3+f4ffd2e53e, Fabric Renderer API (v1):8.0.3+f4ffd2e53e, Fabric Rendering (v1):16.2.10+0290ad933e, Fabric Rendering Fluids (v1):3.1.43+4ebb5c083e, Fabric Resource Conditions API (v1):5.0.35+4fc5413f3e, Fabric Resource Loader (v0):3.3.4+4fc5413f3e, Fabric Resource Loader (v1):1.0.10+78c8b4663e, Fabric Screen API (v1):3.1.7+4ebb5c083e, Fabric Screen Handler API (v1):1.3.162+4fc5413f3e, Fabric Serialization API (v1):1.0.5+4ebb5c083e, Fabric Sound API (v1):1.0.51+4fc5413f3e, Fabric Tag API (v1):1.3.0+88d7da613e, Fabric Transfer API (v1):6.0.25+4fc5413f3e, Fabric Transitive Access Wideners (v1):7.1.0+014c8cec3e, Inventory Profiles Next:2.2.6, Iris:1.10.8+mc1.21.11, JourneyMap API:2.0.0-1.21.11, Journeymap:1.21.11-6.0.0, Just Enough Items:27.48.0.106, Kill Aura:1.0.0, MaLiLib:0.27.20, MezzConfig:0.6.9, Minecraft:1.21.11, MixinExtras:0.5.5, Mod Menu:17.0.1, Mouse Tweaks:2.30, OpenJDK 64-Bit Server VM:21, Placeholder API:2.8.2+1.21.10, Sodium:0.8.14+mc1.21.11, Toro's Auto Mine:1.21.11+1.2, YetAnotherConfigLib:3.8.2+1.21.11-fabric, Zoomify:2.15.2+1.21.11, antlr4-runtime:4.13.1, atomicfu-jvm:0.33.0, cloth-basic-math:0.6.1, common-image:3.12.0, common-io:3.12.0, common-lang:3.12.0, conditional mixin:0.6.4, glsl-transformer:3.0.0-pre3, gson:0.2.1, imageio-core:3.12.0, imageio-metadata:3.12.0, imageio-webp:3.12.0, jcpp:1.4.14, json:0.2.1, kotlin-reflect:2.4.21, kotlin-stdlib-jdk7:2.4.21, kotlin-stdlib-jdk8:2.4.21, kotlin-stdlib:2.4.21, kotlinx-coroutines-core-jvm:1.11.0, kotlinx-coroutines-jdk8:1.11.0, kotlinx-datetime-jvm:0.8.0, kotlinx-io-bytestring-jvm:0.9.1, kotlinx-io-core-jvm:0.9.1, kotlinx-serialization-cbor-jvm:1.11.0, kotlinx-serialization-core-jvm:1.11.0, kotlinx-serialization-json-jvm:1.11.0, ktoml-core-jvm:0.7.1, libIPN:6.6.3, pngj:2.1.0
+[15:43:49] [Render thread/INFO] [FabricEventHandlerManager] #### Checking if feather is loaded: false ####
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f262912885
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin/default
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f4cbde05ee
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f540dfddb8
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f5437311ae
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f5c52b17a5
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f5f6d430aa
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f687e46dde
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f887114c2b
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f8b320977d
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01f90202486e
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fba4427f6b
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fbeed7c038
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fc3b37e842
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fc7bc4940e
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fc965a2263
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fcb670fea4
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fdd40e3ade
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fe28e6e949
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fe31cadaac
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_0cd6dc6f-486d-4e3b-9e5f-adc5da846b02
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_19f8dcb0-6f45-4d6d-adcb-2102fd77996b
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_2388aba0-41bd-411f-8354-ddcf1444a9ff
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_307ea984-96fc-42b9-bb90-9edd65e66365
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_34a5cf0b-5a40-4e12-914d-5108e42178d8
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_42393f7d-a6a6-4f3f-bd07-a85dc13988c1
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_5f60d1c9-2bd8-4add-af8b-c742d7d00c95
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_7cbab2e6-d82c-475b-86c0-99471935a216
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_96da6fbe-1b2a-4c86-a93c-d03491556681
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_a20f41e5-cf34-4f27-86e2-9ac886cc07cf
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_b9d33d4d-4073-4cd7-b1a4-9c198f16ffbb
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_ba379d50-4d91-47bd-80c2-8e8a8af8045f
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_e87c0df7-2124-4a2e-ab81-cdc9486518b0
+[15:43:49] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01fefe4ab078
+[15:43:51] [JM-task-2/WARN] [BaseRenderer] Bad block at 3,0,4. Total bad blocks: 1
+[15:44:01] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_00000000-0000-0000-0009-01ff643e3c9b
+[15:44:09] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: Default Palette
+[15:44:18] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_83e1ecf4-17fc-41b0-9533-b768a1076734
+[15:45:09] [Render thread/WARN] [JMLogger] Image is null: journeymap:skin_1a894577-6ae5-41d3-8265-3910542360b5
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:45:11] [Render thread/WARN] [JourneymapClient] stopMapping called with no level, likely because worldId was sent too early or user exited abruptly.
+[15:45:11] [Render thread/INFO] [JourneymapClient] Mapping halted in null\
+[15:45:13] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[15:45:13] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=null, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[15:45:13] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[15:45:13] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[15:45:13] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\slime-b4edfbda-408a-4e76-a95d-07ae0728c17e. Memory: 2312MB total, 1061MB free 
+[15:45:13] [Render thread/INFO] [JMChunkCache] JMChunkCache: opened at C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\slime-b4edfbda-408a-4e76-a95d-07ae0728c17e\chunk_cache
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:51] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:52] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:52] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:52] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:46:52] [Render thread/WARN] [JourneymapClient] stopMapping called with no level, likely because worldId was sent too early or user exited abruptly.
+[15:46:52] [Render thread/INFO] [JourneymapClient] Mapping halted in null\
+[15:46:53] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[15:46:53] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=null, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[15:46:53] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[15:46:53] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[15:46:53] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\overworld. Memory: 2160MB total, 1265MB free 
+[15:46:53] [Render thread/INFO] [JMChunkCache] JMChunkCache: opened at C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\overworld\chunk_cache
+[15:46:53] [JM-task-6/WARN] [BaseRenderer] Bad block at 12,0,7. Total bad blocks: 2046
+[15:46:53] [JM-task-6/WARN] [BaseRenderer] Bad block at 1,0,7. Total bad blocks: 4092
+[15:46:54] [JM-task-6/WARN] [BaseRenderer] Bad block at 4,0,9. Total bad blocks: 6138
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:22] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [StatTimer] MiniMap2.Rectangle_Horizontal is not running.
+[15:48:23] [Render thread/WARN] [JourneymapClient] stopMapping called with no level, likely because worldId was sent too early or user exited abruptly.
+[15:48:23] [Render thread/INFO] [JourneymapClient] Mapping halted in null\
+[15:48:24] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[15:48:24] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=null, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[15:48:24] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[15:48:24] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[15:48:24] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\slime-b4edfbda-408a-4e76-a95d-07ae0728c17e. Memory: 2160MB total, 705MB free 
+[15:48:24] [Render thread/INFO] [JMChunkCache] JMChunkCache: opened at C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\slime-b4edfbda-408a-4e76-a95d-07ae0728c17e\chunk_cache
+[15:49:16] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[15:49:16] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[15:49:16] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[15:49:16] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[15:49:16] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=null, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[15:49:16] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[15:49:16] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[15:49:19] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\PC\curseforge\minecraft\Instances\farbic  1.21.11\journeymap\data\mp\play~manacube~com\minecraft:slime-b4edfbda-408a-4e76-a95d-07ae0728c17e

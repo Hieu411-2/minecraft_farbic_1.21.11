@@ -1,0 +1,17 @@
+{
+  "_help": "range: blocks (vanilla reach 3.0, max 6.0) | rotation: silent, visible, none | priority: closest, lowestHealth, angle | fov: 360 = all around | minAttackCharge: 1.0 = full-power hits only",
+  "range": 3.0,
+  "targetPlayers": false,
+  "targetHostile": true,
+  "targetPassive": true,
+  "targetArmorStands": false,
+  "ignoreInvisible": false,
+  "throughWalls": false,
+  "rotation": "silent",
+  "priority": "closest",
+  "fov": 180.0,
+  "minAttackCharge": 1.0,
+  "pauseInScreens": true,
+  "pauseWhileUsingItem": true,
+  "showToggleMessage": true
+}

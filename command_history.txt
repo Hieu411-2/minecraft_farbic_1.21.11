@@ -1,0 +1,50 @@
+/island
+/vote
+/kit
+/ah
+/selldump
+/sellwands
+/sell
+/warps
+/sell
+/island
+/is home
+/help
+/kilton
+/shop
+/is upgrade
+/is level
+/skills
+/ranking
+/menu
+/shop
+/is warp sedona
+/fly
+/cow
+/is home
+/ah
+/cubit
+/cubit top
+/cubitstore
+/daily
+/sync
+/daily
+/sync
+/dailyreward
+/sync
+/ah
+/daily
+/sync
+/link
+/sell
+/is upgrade
+/is level
+/is upgrade
+/is setname hieuhpm1
+/ah
+/warp trade
+/warp
+/vote
+/ah
+/is
+/is home

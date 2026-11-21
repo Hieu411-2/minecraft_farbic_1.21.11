@@ -1,0 +1,7 @@
+{
+  "autoMineType": "ALL",
+  "sendToggleMessages": true,
+  "showMessagesInActionBar": true,
+  "checkForDurability": true,
+  "stopMinePercentage": 5
+}
